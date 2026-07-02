@@ -53,20 +53,20 @@
 | 40 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Medium | binary-tree | 25m | Solved | [Solved](Grind75/040_Lowest_Common_Ancestor_of_a_Binary_Tree.md) |
 | 41 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | Medium | binary-search | 35m | Solved | [Solved](Grind75/041_Time_Based_Key_Value_Store.md) |
 | 42 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Hard | string | 30m | Solved | [Solved](Grind75/042_Minimum_Window_Substring.md) |
-| 43 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | Hard | binary-tree | 40m | Planned | Planned |
-| 44 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Hard | stack | 35m | Planned | Planned |
-| 45 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | Hard | heap | 30m | Planned | Planned |
-| 46 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | array | 20m | Planned | Planned |
-| 47 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | binary | 15m | Planned | Planned |
-| 48 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy | binary-tree | 30m | Planned | Planned |
-| 49 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | linked-list | 20m | Planned | Planned |
-| 50 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | Medium | graph | 30m | Planned | Planned |
-| 51 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | array | 25m | Planned | Planned |
-| 52 | [Word Break](https://leetcode.com/problems/word-break) | Medium | trie | 30m | Planned | Planned |
-| 53 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Medium | dynamic-programming | 30m | Planned | Planned |
-| 54 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | string | 25m | Planned | Planned |
-| 55 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | matrix | 25m | Planned | Planned |
-| 56 | [Subsets](https://leetcode.com/problems/subsets) | Medium | recursion | 30m | Planned | Planned |
+| 43 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | Hard | binary-tree | 40m | Solved | [Solved](Grind75/043_Serialize_and_Deserialize_Binary_Tree.md) |
+| 44 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Hard | stack | 35m | Solved | [Solved](Grind75/044_Trapping_Rain_Water.md) |
+| 45 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | Hard | heap | 30m | Solved | [Solved](Grind75/045_Find_Median_from_Data_Stream.md) |
+| 46 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | array | 20m | Solved | [Solved](Grind75/046_Majority_Element.md) |
+| 47 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | binary | 15m | Solved | [Solved](Grind75/047_Add_Binary.md) |
+| 48 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy | binary-tree | 30m | Solved | [Solved](Grind75/048_Diameter_of_Binary_Tree.md) |
+| 49 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | linked-list | 20m | Solved | [Solved](Grind75/049_Middle_of_the_Linked_List.md) |
+| 50 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | Medium | graph | 30m | Solved | [Solved](Grind75/050_Accounts_Merge.md) |
+| 51 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | array | 25m | Solved | [Solved](Grind75/051_Sort_Colors.md) |
+| 52 | [Word Break](https://leetcode.com/problems/word-break) | Medium | trie | 30m | Solved | [Solved](Grind75/052_Word_Break.md) |
+| 53 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Medium | dynamic-programming | 30m | Solved | [Solved](Grind75/053_Partition_Equal_Subset_Sum.md) |
+| 54 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | string | 25m | Solved | [Solved](Grind75/054_String_to_Integer_atoi.md) |
+| 55 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | matrix | 25m | Solved | [Solved](Grind75/055_Spiral_Matrix.md) |
+| 56 | [Subsets](https://leetcode.com/problems/subsets) | Medium | recursion | 30m | Solved | [Solved](Grind75/056_Subsets.md) |
 | 57 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Medium | binary-tree | 20m | Planned | Planned |
 | 58 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | string | 25m | Planned | Planned |
 | 59 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Hard | graph | 45m | Planned | Planned |
