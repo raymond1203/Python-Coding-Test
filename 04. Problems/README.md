@@ -8,29 +8,13 @@
 - [Programmers](Programmers/README.md)
 - [LeetCode](LeetCode/README.md)
 
-## Progress Table
+## Active Study List
 
-| Date | Platform | Problem | Difficulty | Topic | Status | Link |
-|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |
-
-## File Naming Convention
-
-```text
-플랫폼/문제번호_문제명.md
-```
-
-Examples:
-
-```text
-BOJ/1000_A+B.md
-Programmers/Lv2_기능개발.md
-LeetCode/0001_Two_Sum.md
-```
+- [LeetCode Grind 75](LeetCode/Grind75.md)
 
 ## Problem Note Guideline
 
-- 문제를 처음 봤을 때 떠올린 접근을 기록합니다.
-- 실패한 접근도 간단히 남깁니다.
-- 최종 코드는 Python 기준으로 정리합니다.
-- 복잡도 분석을 반드시 작성합니다.
+- 문제 원문을 복사하지 않고, 링크와 내 풀이 설명만 기록합니다.
+- 처음 떠올린 접근과 최종 접근의 차이를 남깁니다.
+- 최종 코드는 Python 3.14 기준으로 정리합니다.
+- 시간/공간 복잡도와 실수하기 쉬운 지점을 반드시 포함합니다.
