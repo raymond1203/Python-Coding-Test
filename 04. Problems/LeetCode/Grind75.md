@@ -25,20 +25,20 @@
 | 12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | Medium | array | 25m | Solved | [Solved](Grind75/012_Insert_Interval.md) |
 | 13 | [01 Matrix](https://leetcode.com/problems/01-matrix) | Medium | graph | 30m | Solved | [Solved](Grind75/013_01_Matrix.md) |
 | 14 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | Medium | heap | 30m | Solved | [Solved](Grind75/014_K_Closest_Points_to_Origin.md) |
-| 15 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | binary-tree | 15m | Planned | Planned |
-| 16 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | linked-list | 20m | Planned | Planned |
-| 17 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | stack | 20m | Planned | Planned |
-| 18 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | binary-search | 20m | Planned | Planned |
-| 19 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | hash-table | 15m | Planned | Planned |
-| 20 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | string | 30m | Planned | Planned |
-| 21 | [3Sum](https://leetcode.com/problems/3sum) | Medium | array | 30m | Planned | Planned |
-| 22 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Medium | binary-tree | 20m | Planned | Planned |
-| 23 | [Clone Graph](https://leetcode.com/problems/clone-graph) | Medium | graph | 25m | Planned | Planned |
-| 24 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Medium | stack | 30m | Planned | Planned |
-| 25 | [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | graph | 30m | Planned | Planned |
-| 26 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | Medium | trie | 35m | Planned | Planned |
-| 27 | [Coin Change](https://leetcode.com/problems/coin-change) | Medium | dynamic-programming | 25m | Planned | Planned |
-| 28 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | array | 30m | Planned | Planned |
+| 15 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | binary-tree | 15m | Solved | [Solved](Grind75/015_Balanced_Binary_Tree.md) |
+| 16 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | linked-list | 20m | Solved | [Solved](Grind75/016_Linked_List_Cycle.md) |
+| 17 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | stack | 20m | Solved | [Solved](Grind75/017_Implement_Queue_using_Stacks.md) |
+| 18 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | binary-search | 20m | Solved | [Solved](Grind75/018_First_Bad_Version.md) |
+| 19 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | hash-table | 15m | Solved | [Solved](Grind75/019_Ransom_Note.md) |
+| 20 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | string | 30m | Solved | [Solved](Grind75/020_Longest_Substring_Without_Repeating_Characters.md) |
+| 21 | [3Sum](https://leetcode.com/problems/3sum) | Medium | array | 30m | Solved | [Solved](Grind75/021_3Sum.md) |
+| 22 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Medium | binary-tree | 20m | Solved | [Solved](Grind75/022_Binary_Tree_Level_Order_Traversal.md) |
+| 23 | [Clone Graph](https://leetcode.com/problems/clone-graph) | Medium | graph | 25m | Solved | [Solved](Grind75/023_Clone_Graph.md) |
+| 24 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Medium | stack | 30m | Solved | [Solved](Grind75/024_Evaluate_Reverse_Polish_Notation.md) |
+| 25 | [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | graph | 30m | Solved | [Solved](Grind75/025_Course_Schedule.md) |
+| 26 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | Medium | trie | 35m | Solved | [Solved](Grind75/026_Implement_Trie_Prefix_Tree.md) |
+| 27 | [Coin Change](https://leetcode.com/problems/coin-change) | Medium | dynamic-programming | 25m | Solved | [Solved](Grind75/027_Coin_Change.md) |
+| 28 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | array | 30m | Solved | [Solved](Grind75/028_Product_of_Array_Except_Self.md) |
 | 29 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | dynamic-programming | 20m | Planned | Planned |
 | 30 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | string | 20m | Planned | Planned |
 | 31 | [Min Stack](https://leetcode.com/problems/min-stack) | Medium | stack | 20m | Planned | Planned |
