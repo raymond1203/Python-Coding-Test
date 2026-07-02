@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Obsidian vault metadata
+.obsidian/
+.trash/
+
+# Local planning / writing workflow
+Loop Engineering Plan.md
+99. Templates/
+
+# Empty placeholder only; real assets can be committed when added
+assets/diagrams/.gitkeep
