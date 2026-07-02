@@ -39,20 +39,20 @@
 | 26 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | Medium | trie | 35m | Solved | [Solved](Grind75/026_Implement_Trie_Prefix_Tree.md) |
 | 27 | [Coin Change](https://leetcode.com/problems/coin-change) | Medium | dynamic-programming | 25m | Solved | [Solved](Grind75/027_Coin_Change.md) |
 | 28 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | array | 30m | Solved | [Solved](Grind75/028_Product_of_Array_Except_Self.md) |
-| 29 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | dynamic-programming | 20m | Planned | Planned |
-| 30 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | string | 20m | Planned | Planned |
-| 31 | [Min Stack](https://leetcode.com/problems/min-stack) | Medium | stack | 20m | Planned | Planned |
-| 32 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | linked-list | 20m | Planned | Planned |
-| 33 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium | binary-search-tree | 20m | Planned | Planned |
-| 34 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | graph | 25m | Planned | Planned |
-| 35 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | Medium | graph | 30m | Planned | Planned |
-| 36 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | binary-search | 30m | Planned | Planned |
-| 37 | [Combination Sum](https://leetcode.com/problems/combination-sum) | Medium | array | 30m | Planned | Planned |
-| 38 | [Permutations](https://leetcode.com/problems/permutations) | Medium | recursion | 30m | Planned | Planned |
-| 39 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium | array | 30m | Planned | Planned |
-| 40 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Medium | binary-tree | 25m | Planned | Planned |
-| 41 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | Medium | binary-search | 35m | Planned | Planned |
-| 42 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Hard | string | 30m | Planned | Planned |
+| 29 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | dynamic-programming | 20m | Solved | [Solved](Grind75/029_Climbing_Stairs.md) |
+| 30 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | string | 20m | Solved | [Solved](Grind75/030_Longest_Palindrome.md) |
+| 31 | [Min Stack](https://leetcode.com/problems/min-stack) | Medium | stack | 20m | Solved | [Solved](Grind75/031_Min_Stack.md) |
+| 32 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | linked-list | 20m | Solved | [Solved](Grind75/032_Reverse_Linked_List.md) |
+| 33 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium | binary-search-tree | 20m | Solved | [Solved](Grind75/033_Validate_Binary_Search_Tree.md) |
+| 34 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | graph | 25m | Solved | [Solved](Grind75/034_Number_of_Islands.md) |
+| 35 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | Medium | graph | 30m | Solved | [Solved](Grind75/035_Rotting_Oranges.md) |
+| 36 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | binary-search | 30m | Solved | [Solved](Grind75/036_Search_in_Rotated_Sorted_Array.md) |
+| 37 | [Combination Sum](https://leetcode.com/problems/combination-sum) | Medium | array | 30m | Solved | [Solved](Grind75/037_Combination_Sum.md) |
+| 38 | [Permutations](https://leetcode.com/problems/permutations) | Medium | recursion | 30m | Solved | [Solved](Grind75/038_Permutations.md) |
+| 39 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium | array | 30m | Solved | [Solved](Grind75/039_Merge_Intervals.md) |
+| 40 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Medium | binary-tree | 25m | Solved | [Solved](Grind75/040_Lowest_Common_Ancestor_of_a_Binary_Tree.md) |
+| 41 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | Medium | binary-search | 35m | Solved | [Solved](Grind75/041_Time_Based_Key_Value_Store.md) |
+| 42 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Hard | string | 30m | Solved | [Solved](Grind75/042_Minimum_Window_Substring.md) |
 | 43 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | Hard | binary-tree | 40m | Planned | Planned |
 | 44 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Hard | stack | 35m | Planned | Planned |
 | 45 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | Hard | heap | 30m | Planned | Planned |
