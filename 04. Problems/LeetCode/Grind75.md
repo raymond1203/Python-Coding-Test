@@ -67,25 +67,25 @@
 | 54 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | string | 25m | Solved | [Solved](Grind75/054_String_to_Integer_atoi.md) |
 | 55 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | matrix | 25m | Solved | [Solved](Grind75/055_Spiral_Matrix.md) |
 | 56 | [Subsets](https://leetcode.com/problems/subsets) | Medium | recursion | 30m | Solved | [Solved](Grind75/056_Subsets.md) |
-| 57 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Medium | binary-tree | 20m | Planned | Planned |
-| 58 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | string | 25m | Planned | Planned |
-| 59 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Hard | graph | 45m | Planned | Planned |
-| 60 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | Hard | stack | 40m | Planned | Planned |
-| 61 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) | Hard | binary-search | 45m | Planned | Planned |
-| 62 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | Hard | heap | 30m | Planned | Planned |
-| 63 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | Hard | stack | 35m | Planned | Planned |
-| 64 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | binary-tree | 15m | Planned | Planned |
-| 65 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | array | 15m | Planned | Planned |
-| 66 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Medium | dynamic-programming | 20m | Planned | Planned |
-| 67 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Medium | binary-tree | 25m | Planned | Planned |
-| 68 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | array | 35m | Planned | Planned |
-| 69 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Medium | recursion | 30m | Planned | Planned |
-| 70 | [Word Search](https://leetcode.com/problems/word-search) | Medium | graph | 30m | Planned | Planned |
-| 71 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | string | 30m | Planned | Planned |
-| 72 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) | Medium | graph | 30m | Planned | Planned |
-| 73 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | Medium | heap | 35m | Planned | Planned |
-| 74 | [LRU Cache](https://leetcode.com/problems/lru-cache) | Medium | linked-list | 30m | Planned | Planned |
-| 75 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium | binary-search-tree | 25m | Planned | Planned |
+| 57 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Medium | binary-tree | 20m | Solved | [Solved](Grind75/057_Binary_Tree_Right_Side_View.md) |
+| 58 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | string | 25m | Solved | [Solved](Grind75/058_Longest_Palindromic_Substring.md) |
+| 59 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Hard | graph | 45m | Solved | [Solved](Grind75/059_Word_Ladder.md) |
+| 60 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | Hard | stack | 40m | Solved | [Solved](Grind75/060_Basic_Calculator.md) |
+| 61 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) | Hard | binary-search | 45m | Solved | [Solved](Grind75/061_Maximum_Profit_in_Job_Scheduling.md) |
+| 62 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | Hard | heap | 30m | Solved | [Solved](Grind75/062_Merge_k_Sorted_Lists.md) |
+| 63 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | Hard | stack | 35m | Solved | [Solved](Grind75/063_Largest_Rectangle_in_Histogram.md) |
+| 64 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | binary-tree | 15m | Solved | [Solved](Grind75/064_Maximum_Depth_of_Binary_Tree.md) |
+| 65 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | array | 15m | Solved | [Solved](Grind75/065_Contains_Duplicate.md) |
+| 66 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Medium | dynamic-programming | 20m | Solved | [Solved](Grind75/066_Unique_Paths.md) |
+| 67 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Medium | binary-tree | 25m | Solved | [Solved](Grind75/067_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md) |
+| 68 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | array | 35m | Solved | [Solved](Grind75/068_Container_With_Most_Water.md) |
+| 69 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Medium | recursion | 30m | Solved | [Solved](Grind75/069_Letter_Combinations_of_a_Phone_Number.md) |
+| 70 | [Word Search](https://leetcode.com/problems/word-search) | Medium | graph | 30m | Solved | [Solved](Grind75/070_Word_Search.md) |
+| 71 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | string | 30m | Solved | [Solved](Grind75/071_Find_All_Anagrams_in_a_String.md) |
+| 72 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) | Medium | graph | 30m | Solved | [Solved](Grind75/072_Minimum_Height_Trees.md) |
+| 73 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | Medium | heap | 35m | Solved | [Solved](Grind75/073_Task_Scheduler.md) |
+| 74 | [LRU Cache](https://leetcode.com/problems/lru-cache) | Medium | linked-list | 30m | Solved | [Solved](Grind75/074_LRU_Cache.md) |
+| 75 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium | binary-search-tree | 25m | Solved | [Solved](Grind75/075_Kth_Smallest_Element_in_a_BST.md) |
 
 ## Writing Rule
 
